@@ -1,0 +1,17 @@
+((((((((human:0.006969,chimp:0.009727):0.025291,(baboon:0.008968,macaque:0.014961):0.011019):0.023649,marmoset:0.031665):0.066673,galago:0.123757):0.018405,((rat:0.081244,mouse:0.072818):0.238435,rabbit:0.204316):0.021892):0.023260,(((cow:0.164728,dog:0.157381):0.004663,rfbat:0.142667):0.010883,hedgehog:0.229657):0.033242):0.028346,armadillo:0.161811):0.016015,(elephant:0.103584,tenrec:0.251557):0.035000):0.001;
+human https://raw.githubusercontent.com/amarshallCN/test/main/human.fa
+chimp https://raw.githubusercontent.com/amarshallCN/test/main/chimp.fa
+macaque https://raw.githubusercontent.com/amarshallCN/test/main/macaque.fa
+marmoset https://raw.githubusercontent.com/amarshallCN/test/main/marmoset.fa
+galago https://raw.githubusercontent.com/amarshallCN/test/main/galago.fa
+baboon https://raw.githubusercontent.com/amarshallCN/test/main/baboon.fa
+mouse https://raw.githubusercontent.com/amarshallCN/test/main/mouse.fa
+rat https://raw.githubusercontent.com/amarshallCN/test/main/rat.fa
+rabbit https://raw.githubusercontent.com/amarshallCN/test/main/rabbit.fa
+cow https://raw.githubusercontent.com/amarshallCN/test/main/cow.fa
+dog https://raw.githubusercontent.com/amarshallCN/test/main/dog.fa
+rfbat https://raw.githubusercontent.com/amarshallCN/test/main/rfbat.fa
+hedgehog https://raw.githubusercontent.com/amarshallCN/test/main/hedgehog.fa
+armadillo https://raw.githubusercontent.com/amarshallCN/test/main/armadillo.fa
+elephant https://raw.githubusercontent.com/amarshallCN/test/main/elephant.fa
+tenrec https://raw.githubusercontent.com/amarshallCN/test/main/tenrec.fa
